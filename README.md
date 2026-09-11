@@ -2,6 +2,8 @@
 
 Welcome to the official repository for my research paper and project, **"Lightweight PDE Model For Poisson Denoising"**, co-authored with L Joy Nirantar. We developed this mathematically transparent, "white-box" framework to address the limitations of heavy, unconstrained convolutional networks in image restoration. This repository contains the complete PyTorch implementation of our work.
 
+[Link to paper](https://github.com/tdhdap/Lightweight-PDE-Model-For-Poisson-Denoising/blob/main/Mathematical%20Image%20Processing/Lightweight%20PDE%20Model%20For%20Poisson%20Denoising%20(2).pdf)
+
 ## Overview
 Standard image restoration models often struggle in low-photon environments, such as fluorescence microscopy and astronomical imaging, where noise adheres to a signal-dependent Poisson probability distribution. While deep convolutional frameworks like TRDPD offer high performance, they often trade mathematical interpretability and stability to achieve those metrics. 
 
